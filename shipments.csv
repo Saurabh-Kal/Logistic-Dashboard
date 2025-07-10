@@ -1,0 +1,301 @@
+shipment_id,origin,destination,date,cost,delivery_time_days,status
+SHP0000,Chennai,Lucknow,2025-03-03 00:01:14,4239.83,9,Delivered
+SHP0001,Kolkata,Lucknow,2024-05-28 15:24:19,8155.94,7,Cancelled
+SHP0002,Bangalore,Ahmedabad,2024-12-12 22:36:18,3496.35,3,In Transit
+SHP0003,Kolkata,Lucknow,2025-01-28 06:20:02,4589.43,3,Delivered
+SHP0004,Kolkata,Hyderabad,2024-01-28 11:12:19,5403.49,2,Cancelled
+SHP0005,Delhi,Jaipur,2025-01-06 11:27:13,6060.88,5,Delayed
+SHP0006,Bangalore,Ahmedabad,2025-05-10 09:13:18,3939.28,3,In Transit
+SHP0007,Bangalore,Jaipur,2024-08-06 15:46:48,2918.69,6,Delayed
+SHP0008,Bangalore,Lucknow,2025-02-14 01:04:13,6884.96,2,Cancelled
+SHP0009,Kolkata,Lucknow,2024-03-11 09:25:50,4309.04,3,Delivered
+SHP0010,Chennai,Ahmedabad,2024-05-07 03:54:28,6649.91,5,Delivered
+SHP0011,Bangalore,Hyderabad,2025-04-13 12:31:49,3234.9,1,Cancelled
+SHP0012,Kolkata,Pune,2024-11-03 16:08:21,5849.12,1,Delivered
+SHP0013,Delhi,Ahmedabad,2025-04-02 10:12:18,6260.72,9,In Transit
+SHP0014,Chennai,Pune,2025-06-07 14:22:07,2414.59,7,Cancelled
+SHP0015,Delhi,Pune,2024-05-15 11:53:58,4692.83,1,Delayed
+SHP0016,Chennai,Hyderabad,2025-03-23 14:35:54,3075.32,8,Cancelled
+SHP0017,Kolkata,Pune,2024-10-04 06:06:01,2507.0,3,In Transit
+SHP0018,Mumbai,Pune,2024-07-12 17:03:33,9919.68,8,In Transit
+SHP0019,Chennai,Hyderabad,2024-05-05 20:30:03,4578.83,5,Cancelled
+SHP0020,Delhi,Pune,2025-06-18 18:19:07,8479.0,1,Cancelled
+SHP0021,Kolkata,Pune,2025-01-09 13:41:08,4037.13,7,Delivered
+SHP0022,Chennai,Pune,2024-01-31 21:04:27,7452.02,5,In Transit
+SHP0023,Mumbai,Ahmedabad,2024-11-05 08:45:23,8081.82,6,Cancelled
+SHP0024,Mumbai,Ahmedabad,2025-06-09 14:34:01,6765.11,6,Cancelled
+SHP0025,Bangalore,Ahmedabad,2025-04-22 07:54:33,5772.61,8,In Transit
+SHP0026,Bangalore,Hyderabad,2025-06-13 03:40:43,5294.73,9,Cancelled
+SHP0027,Delhi,Lucknow,2024-10-01 22:52:33,4790.95,2,Delivered
+SHP0028,Chennai,Pune,2024-01-16 13:20:27,9436.23,9,In Transit
+SHP0029,Chennai,Pune,2024-02-18 05:21:40,8644.96,9,Delivered
+SHP0030,Bangalore,Hyderabad,2024-10-07 14:31:04,9720.22,7,Delivered
+SHP0031,Chennai,Pune,2025-05-09 14:38:27,2994.38,1,Delivered
+SHP0032,Chennai,Ahmedabad,2024-04-01 06:07:59,7846.94,7,Delivered
+SHP0033,Mumbai,Lucknow,2024-01-06 18:12:42,9506.72,5,In Transit
+SHP0034,Bangalore,Jaipur,2025-06-13 23:55:33,3449.86,6,Delivered
+SHP0035,Kolkata,Pune,2024-02-22 23:43:58,2531.97,7,Delivered
+SHP0036,Bangalore,Ahmedabad,2024-08-28 21:56:32,7928.97,5,Cancelled
+SHP0037,Kolkata,Jaipur,2024-09-03 09:35:48,6595.78,7,In Transit
+SHP0038,Mumbai,Lucknow,2024-03-05 09:01:07,8734.63,9,In Transit
+SHP0039,Delhi,Jaipur,2025-03-24 23:27:08,3118.18,3,Delayed
+SHP0040,Chennai,Ahmedabad,2024-09-22 02:05:35,8362.14,8,In Transit
+SHP0041,Mumbai,Jaipur,2024-11-12 12:03:40,3613.02,2,In Transit
+SHP0042,Chennai,Hyderabad,2025-02-10 21:13:48,3309.25,7,Delayed
+SHP0043,Delhi,Jaipur,2024-08-20 12:06:05,3314.13,2,In Transit
+SHP0044,Delhi,Pune,2025-05-13 22:53:48,8516.6,4,In Transit
+SHP0045,Mumbai,Pune,2024-05-30 17:06:13,7321.58,7,In Transit
+SHP0046,Delhi,Hyderabad,2025-05-31 10:37:38,6184.52,3,In Transit
+SHP0047,Kolkata,Ahmedabad,2024-12-12 10:57:03,4870.64,2,Delayed
+SHP0048,Delhi,Pune,2024-05-31 00:01:08,9017.6,7,In Transit
+SHP0049,Chennai,Lucknow,2024-07-19 20:08:14,5139.56,1,In Transit
+SHP0050,Chennai,Pune,2024-08-17 19:56:57,8532.8,8,Delayed
+SHP0051,Chennai,Pune,2025-06-23 12:42:31,5513.08,3,Cancelled
+SHP0052,Chennai,Ahmedabad,2024-03-23 14:13:49,5015.56,2,Delivered
+SHP0053,Kolkata,Jaipur,2024-11-28 12:09:21,5701.44,3,Cancelled
+SHP0054,Bangalore,Pune,2024-08-22 06:40:58,4411.02,5,Delayed
+SHP0055,Mumbai,Hyderabad,2025-03-02 17:25:24,7980.88,8,Delivered
+SHP0056,Chennai,Jaipur,2025-06-17 23:40:38,6021.76,7,Delayed
+SHP0057,Delhi,Lucknow,2024-09-05 19:20:23,3857.7,7,Delayed
+SHP0058,Chennai,Ahmedabad,2024-03-13 17:51:28,9196.6,7,In Transit
+SHP0059,Delhi,Lucknow,2024-05-24 05:10:55,5071.13,8,Delivered
+SHP0060,Delhi,Jaipur,2024-02-15 06:55:42,6348.42,1,In Transit
+SHP0061,Chennai,Jaipur,2025-05-01 18:10:56,9251.78,4,Delivered
+SHP0062,Kolkata,Jaipur,2024-03-27 10:40:10,6993.9,6,Delayed
+SHP0063,Delhi,Lucknow,2024-01-19 22:12:36,2935.18,9,Delayed
+SHP0064,Delhi,Jaipur,2024-10-19 20:04:14,9518.66,2,Cancelled
+SHP0065,Chennai,Lucknow,2024-04-27 12:53:44,7021.66,1,Delivered
+SHP0066,Delhi,Jaipur,2024-02-27 21:10:45,4679.24,2,In Transit
+SHP0067,Delhi,Hyderabad,2024-02-21 15:50:18,3114.18,7,Cancelled
+SHP0068,Chennai,Jaipur,2024-11-23 03:59:44,8352.2,3,Cancelled
+SHP0069,Chennai,Lucknow,2025-05-22 05:29:48,6960.58,2,Cancelled
+SHP0070,Mumbai,Pune,2024-02-20 07:09:20,6267.69,7,In Transit
+SHP0071,Kolkata,Jaipur,2024-10-03 23:29:44,9151.14,2,Cancelled
+SHP0072,Kolkata,Pune,2025-03-01 23:48:50,8308.78,3,In Transit
+SHP0073,Delhi,Hyderabad,2025-03-16 00:59:42,3213.4,7,Cancelled
+SHP0074,Kolkata,Ahmedabad,2025-01-21 20:22:24,4493.78,4,In Transit
+SHP0075,Delhi,Hyderabad,2025-04-17 06:32:15,3987.91,1,Delayed
+SHP0076,Mumbai,Jaipur,2024-09-22 19:39:49,7951.57,5,Delayed
+SHP0077,Chennai,Pune,2024-07-28 11:58:19,2268.26,9,Delayed
+SHP0078,Chennai,Pune,2024-01-20 22:25:20,6559.12,8,Delayed
+SHP0079,Chennai,Lucknow,2024-06-02 21:59:32,8099.67,9,Delayed
+SHP0080,Kolkata,Pune,2024-12-09 18:48:34,9014.13,9,Cancelled
+SHP0081,Mumbai,Lucknow,2025-03-01 08:32:52,4736.65,7,Cancelled
+SHP0082,Kolkata,Ahmedabad,2024-12-15 04:35:34,8570.06,4,Cancelled
+SHP0083,Kolkata,Jaipur,2024-06-16 03:30:44,2885.05,5,In Transit
+SHP0084,Mumbai,Lucknow,2025-01-01 09:45:24,8771.62,1,In Transit
+SHP0085,Mumbai,Ahmedabad,2024-12-27 04:20:52,3019.91,1,In Transit
+SHP0086,Mumbai,Pune,2024-12-18 00:11:53,5178.3,3,In Transit
+SHP0087,Mumbai,Pune,2024-10-20 03:51:37,8378.36,8,Delayed
+SHP0088,Chennai,Ahmedabad,2024-05-21 16:50:26,3199.34,2,Delayed
+SHP0089,Bangalore,Pune,2024-11-29 13:08:36,3834.01,4,Delayed
+SHP0090,Bangalore,Ahmedabad,2024-04-05 11:02:32,7778.02,2,Delivered
+SHP0091,Mumbai,Lucknow,2024-07-25 18:22:37,7760.29,5,Cancelled
+SHP0092,Bangalore,Lucknow,2024-03-12 16:53:20,7129.18,9,In Transit
+SHP0093,Bangalore,Ahmedabad,2024-02-16 00:47:46,7551.59,1,In Transit
+SHP0094,Mumbai,Lucknow,2025-03-28 16:49:48,6341.8,5,Delayed
+SHP0095,Bangalore,Lucknow,2024-07-22 22:38:59,4014.39,9,In Transit
+SHP0096,Kolkata,Lucknow,2025-05-06 18:34:37,4765.57,1,In Transit
+SHP0097,Delhi,Hyderabad,2024-06-09 02:24:00,3452.78,9,Cancelled
+SHP0098,Delhi,Jaipur,2024-12-13 22:17:11,9267.6,8,Delayed
+SHP0099,Mumbai,Pune,2025-03-11 03:01:51,6667.13,4,Cancelled
+SHP0100,Chennai,Hyderabad,2024-01-02 01:36:33,5206.81,5,Delivered
+SHP0101,Mumbai,Lucknow,2024-05-31 11:47:42,5696.05,5,Delivered
+SHP0102,Chennai,Ahmedabad,2024-07-26 22:01:43,9578.27,6,Delivered
+SHP0103,Delhi,Lucknow,2024-11-22 02:04:22,3226.81,7,Delayed
+SHP0104,Mumbai,Jaipur,2024-08-20 18:40:33,6689.84,8,In Transit
+SHP0105,Kolkata,Lucknow,2025-01-05 20:57:25,6047.11,8,Delayed
+SHP0106,Bangalore,Ahmedabad,2024-11-28 17:31:33,6891.63,2,Delayed
+SHP0107,Chennai,Jaipur,2024-06-10 09:12:34,2144.88,9,In Transit
+SHP0108,Bangalore,Lucknow,2024-08-13 14:38:50,8976.99,7,Cancelled
+SHP0109,Bangalore,Jaipur,2025-06-25 22:52:33,9456.95,4,Delivered
+SHP0110,Mumbai,Pune,2025-02-23 03:10:03,6521.07,4,Cancelled
+SHP0111,Bangalore,Pune,2024-07-12 03:51:28,7573.21,8,Delivered
+SHP0112,Kolkata,Lucknow,2024-09-07 03:12:53,9380.0,4,Delayed
+SHP0113,Bangalore,Jaipur,2025-05-26 04:21:49,7657.91,6,Delivered
+SHP0114,Mumbai,Ahmedabad,2024-03-23 04:49:33,3220.31,5,Delayed
+SHP0115,Kolkata,Lucknow,2025-06-09 07:55:38,6610.31,3,Cancelled
+SHP0116,Delhi,Pune,2025-03-24 03:35:11,6853.72,2,Delayed
+SHP0117,Bangalore,Pune,2024-09-12 08:58:54,5393.05,9,Cancelled
+SHP0118,Mumbai,Lucknow,2024-06-18 22:08:36,7891.55,9,In Transit
+SHP0119,Delhi,Jaipur,2025-06-27 13:25:40,9474.94,1,In Transit
+SHP0120,Delhi,Pune,2024-02-17 11:04:33,9404.55,3,In Transit
+SHP0121,Chennai,Jaipur,2025-02-10 02:47:38,5606.71,8,Delayed
+SHP0122,Kolkata,Pune,2025-05-04 02:34:26,2905.9,6,In Transit
+SHP0123,Bangalore,Pune,2025-01-27 03:36:31,9878.73,5,Delivered
+SHP0124,Mumbai,Hyderabad,2024-12-05 21:31:17,8711.18,5,Cancelled
+SHP0125,Chennai,Pune,2024-03-21 11:35:57,2997.3,6,Cancelled
+SHP0126,Kolkata,Ahmedabad,2025-01-29 17:30:54,9366.74,7,Delivered
+SHP0127,Chennai,Lucknow,2025-01-15 03:15:45,8959.17,1,Delayed
+SHP0128,Kolkata,Lucknow,2024-08-11 23:13:55,6150.7,9,Delayed
+SHP0129,Kolkata,Jaipur,2024-01-29 09:35:52,6730.2,3,Cancelled
+SHP0130,Bangalore,Pune,2024-04-29 10:54:15,5192.02,4,In Transit
+SHP0131,Kolkata,Ahmedabad,2024-07-28 20:10:54,2438.09,1,Delayed
+SHP0132,Chennai,Jaipur,2024-10-21 04:11:39,4681.58,3,Delayed
+SHP0133,Kolkata,Hyderabad,2024-02-23 21:48:13,8422.83,2,Delivered
+SHP0134,Bangalore,Jaipur,2025-01-31 13:15:21,2037.06,2,Delivered
+SHP0135,Bangalore,Jaipur,2024-05-28 13:40:02,4667.99,1,In Transit
+SHP0136,Chennai,Pune,2025-05-19 03:43:12,5185.35,8,Delayed
+SHP0137,Delhi,Hyderabad,2024-11-16 13:20:03,6299.16,3,Delayed
+SHP0138,Delhi,Jaipur,2024-11-05 06:54:01,9358.84,3,Delivered
+SHP0139,Kolkata,Ahmedabad,2024-08-22 06:22:47,4770.77,6,Delayed
+SHP0140,Mumbai,Ahmedabad,2025-01-19 19:43:05,4775.63,8,Cancelled
+SHP0141,Kolkata,Lucknow,2024-06-12 16:23:44,7900.01,9,Delivered
+SHP0142,Chennai,Hyderabad,2025-02-13 19:56:43,5617.74,9,In Transit
+SHP0143,Chennai,Hyderabad,2024-07-04 17:11:47,3796.84,4,Delivered
+SHP0144,Chennai,Lucknow,2024-10-25 19:07:03,5619.52,5,Delayed
+SHP0145,Chennai,Jaipur,2025-02-13 18:23:48,3126.86,2,In Transit
+SHP0146,Chennai,Hyderabad,2024-07-01 02:36:49,3411.1,9,Delivered
+SHP0147,Bangalore,Ahmedabad,2024-02-01 03:34:36,5986.94,8,Cancelled
+SHP0148,Delhi,Ahmedabad,2024-10-25 13:11:25,5351.4,3,Cancelled
+SHP0149,Chennai,Pune,2025-02-21 14:36:26,9318.77,9,Delivered
+SHP0150,Mumbai,Hyderabad,2024-03-16 19:19:06,4899.15,3,Cancelled
+SHP0151,Mumbai,Jaipur,2024-10-13 20:37:03,6644.71,9,Cancelled
+SHP0152,Mumbai,Lucknow,2024-10-25 22:17:18,7058.11,2,Cancelled
+SHP0153,Mumbai,Lucknow,2024-07-11 20:41:28,2104.76,9,In Transit
+SHP0154,Bangalore,Jaipur,2024-12-13 16:21:42,7308.3,8,Cancelled
+SHP0155,Mumbai,Pune,2024-05-31 09:49:42,3424.29,9,Cancelled
+SHP0156,Chennai,Lucknow,2024-11-26 03:09:03,9688.56,5,Cancelled
+SHP0157,Kolkata,Hyderabad,2025-04-25 23:18:34,3189.3,2,In Transit
+SHP0158,Mumbai,Pune,2025-05-20 10:23:11,5316.99,8,Delivered
+SHP0159,Bangalore,Hyderabad,2024-01-13 09:57:27,2682.8,6,Delayed
+SHP0160,Bangalore,Ahmedabad,2025-02-11 05:45:39,9974.99,8,Cancelled
+SHP0161,Mumbai,Pune,2025-05-12 08:31:35,6017.56,5,Delivered
+SHP0162,Kolkata,Lucknow,2025-03-23 11:09:55,6763.08,2,Cancelled
+SHP0163,Mumbai,Pune,2024-04-05 07:24:39,2536.61,6,In Transit
+SHP0164,Bangalore,Pune,2024-09-25 23:49:44,7999.68,5,Delivered
+SHP0165,Delhi,Pune,2024-11-02 09:13:38,3679.24,5,In Transit
+SHP0166,Chennai,Pune,2024-09-16 01:43:30,9184.43,1,Cancelled
+SHP0167,Bangalore,Hyderabad,2024-08-04 18:06:23,3641.12,2,Cancelled
+SHP0168,Mumbai,Ahmedabad,2024-01-23 02:45:05,3525.5,8,In Transit
+SHP0169,Chennai,Jaipur,2025-02-10 21:33:48,2292.4,3,Delayed
+SHP0170,Mumbai,Pune,2024-08-26 01:31:37,5776.54,3,In Transit
+SHP0171,Mumbai,Lucknow,2024-09-10 11:25:38,6518.73,8,Cancelled
+SHP0172,Delhi,Pune,2025-04-23 03:27:14,2525.67,8,In Transit
+SHP0173,Chennai,Lucknow,2025-04-06 20:09:56,8204.22,2,Delayed
+SHP0174,Chennai,Hyderabad,2024-03-07 05:53:21,5626.31,8,In Transit
+SHP0175,Delhi,Lucknow,2024-07-11 08:09:13,6195.12,1,Delayed
+SHP0176,Bangalore,Jaipur,2024-09-12 06:52:44,5526.1,6,Delayed
+SHP0177,Mumbai,Ahmedabad,2024-01-28 13:45:57,5206.1,8,In Transit
+SHP0178,Kolkata,Lucknow,2025-06-09 19:29:24,6477.12,3,In Transit
+SHP0179,Mumbai,Lucknow,2024-04-01 11:34:29,3241.92,8,Delivered
+SHP0180,Mumbai,Ahmedabad,2024-06-06 18:08:04,3455.43,1,Cancelled
+SHP0181,Bangalore,Jaipur,2025-01-15 11:18:00,8894.28,9,Delayed
+SHP0182,Mumbai,Pune,2024-06-08 12:08:57,9568.92,9,Delivered
+SHP0183,Delhi,Lucknow,2024-06-27 13:44:13,4986.47,5,In Transit
+SHP0184,Delhi,Ahmedabad,2024-08-31 07:47:45,4165.96,4,Cancelled
+SHP0185,Chennai,Hyderabad,2024-07-05 08:00:48,7152.0,6,Delivered
+SHP0186,Kolkata,Ahmedabad,2024-06-18 20:57:49,5269.87,7,Delayed
+SHP0187,Mumbai,Hyderabad,2024-04-08 03:41:13,2203.09,5,Delivered
+SHP0188,Mumbai,Jaipur,2024-05-23 21:39:56,3249.22,9,Delayed
+SHP0189,Bangalore,Pune,2025-03-27 12:10:02,7727.78,3,In Transit
+SHP0190,Delhi,Ahmedabad,2025-02-04 18:30:32,7271.39,7,Cancelled
+SHP0191,Kolkata,Lucknow,2024-05-06 00:51:04,2216.77,5,Cancelled
+SHP0192,Chennai,Jaipur,2024-05-24 04:18:00,3775.78,7,Cancelled
+SHP0193,Delhi,Ahmedabad,2024-01-15 03:41:09,3848.6,2,In Transit
+SHP0194,Chennai,Lucknow,2024-06-29 15:34:06,7375.14,4,Delayed
+SHP0195,Bangalore,Ahmedabad,2024-02-06 04:09:14,2157.68,2,In Transit
+SHP0196,Bangalore,Hyderabad,2024-04-23 15:15:59,2832.87,7,Cancelled
+SHP0197,Mumbai,Ahmedabad,2024-05-08 23:59:12,8399.33,2,In Transit
+SHP0198,Kolkata,Ahmedabad,2025-03-19 17:15:15,3428.36,1,In Transit
+SHP0199,Chennai,Ahmedabad,2025-04-08 14:41:04,7221.97,9,In Transit
+SHP0200,Delhi,Jaipur,2024-11-13 17:57:27,3905.46,1,Delayed
+SHP0201,Bangalore,Ahmedabad,2024-06-24 09:09:54,2795.53,8,Delivered
+SHP0202,Mumbai,Lucknow,2024-04-03 13:18:43,3945.38,2,Delivered
+SHP0203,Mumbai,Hyderabad,2024-11-05 09:54:22,7778.14,8,In Transit
+SHP0204,Chennai,Hyderabad,2024-09-22 11:38:22,8845.57,3,Delivered
+SHP0205,Bangalore,Ahmedabad,2024-04-17 17:02:47,8641.76,6,Delivered
+SHP0206,Kolkata,Jaipur,2024-01-08 08:33:25,5177.47,3,In Transit
+SHP0207,Bangalore,Jaipur,2024-03-27 13:43:41,7344.68,7,In Transit
+SHP0208,Chennai,Lucknow,2025-03-17 09:58:49,3639.87,9,Cancelled
+SHP0209,Chennai,Ahmedabad,2025-05-09 21:16:11,4345.18,2,Delivered
+SHP0210,Bangalore,Hyderabad,2025-04-19 04:02:30,9170.69,5,Delayed
+SHP0211,Chennai,Jaipur,2024-01-01 18:47:41,2104.02,6,In Transit
+SHP0212,Bangalore,Ahmedabad,2025-04-12 18:13:43,2684.07,4,Cancelled
+SHP0213,Delhi,Jaipur,2024-03-28 18:59:13,3663.09,4,Delayed
+SHP0214,Bangalore,Jaipur,2024-09-27 02:03:57,2212.26,4,Delivered
+SHP0215,Bangalore,Hyderabad,2024-12-19 15:26:50,3451.48,2,Cancelled
+SHP0216,Chennai,Pune,2024-05-01 03:23:35,6664.33,4,In Transit
+SHP0217,Chennai,Lucknow,2025-02-07 11:52:18,5371.4,1,Delayed
+SHP0218,Mumbai,Lucknow,2025-05-23 06:24:06,9141.37,6,In Transit
+SHP0219,Mumbai,Hyderabad,2024-08-15 18:20:30,8539.55,1,Delivered
+SHP0220,Delhi,Jaipur,2024-02-04 08:00:22,4734.54,6,Delayed
+SHP0221,Mumbai,Ahmedabad,2024-02-12 22:10:54,4075.39,1,Delivered
+SHP0222,Bangalore,Jaipur,2025-01-24 17:27:45,5037.54,6,Delivered
+SHP0223,Chennai,Hyderabad,2025-05-07 17:55:05,6722.36,8,Cancelled
+SHP0224,Mumbai,Lucknow,2025-05-31 19:42:29,4144.51,2,In Transit
+SHP0225,Mumbai,Jaipur,2024-03-08 23:12:34,6993.19,2,Delayed
+SHP0226,Delhi,Lucknow,2024-11-21 01:08:02,5275.29,4,Delivered
+SHP0227,Delhi,Ahmedabad,2025-02-06 10:18:54,6416.38,3,Delivered
+SHP0228,Bangalore,Lucknow,2024-06-28 20:43:04,5489.01,4,Delayed
+SHP0229,Chennai,Lucknow,2024-05-30 15:10:46,4355.73,7,Delivered
+SHP0230,Delhi,Pune,2024-04-23 13:06:44,9587.63,1,Cancelled
+SHP0231,Mumbai,Pune,2025-06-01 10:16:59,8108.85,6,Cancelled
+SHP0232,Chennai,Pune,2024-08-09 00:31:05,3120.91,3,Cancelled
+SHP0233,Chennai,Lucknow,2024-03-13 19:55:18,8947.74,7,Cancelled
+SHP0234,Mumbai,Hyderabad,2025-04-21 04:23:20,5899.45,2,Delivered
+SHP0235,Delhi,Lucknow,2025-02-17 17:44:06,9156.42,2,Delayed
+SHP0236,Mumbai,Hyderabad,2024-07-22 02:16:29,8398.84,4,Delayed
+SHP0237,Chennai,Hyderabad,2025-05-31 08:19:55,5401.71,1,Delayed
+SHP0238,Kolkata,Pune,2024-09-16 11:38:00,2179.75,3,Delayed
+SHP0239,Kolkata,Jaipur,2024-12-25 06:31:31,4149.42,9,In Transit
+SHP0240,Bangalore,Ahmedabad,2025-01-28 18:24:02,6333.07,7,Delayed
+SHP0241,Mumbai,Pune,2025-02-11 12:24:08,7067.83,7,In Transit
+SHP0242,Mumbai,Pune,2025-06-22 11:12:17,4063.1,4,In Transit
+SHP0243,Bangalore,Jaipur,2025-03-13 05:11:10,3114.85,2,Cancelled
+SHP0244,Bangalore,Ahmedabad,2024-10-28 23:08:19,8679.44,4,In Transit
+SHP0245,Bangalore,Lucknow,2024-10-18 03:07:26,9875.22,6,Delivered
+SHP0246,Chennai,Lucknow,2024-05-01 15:57:09,6205.52,3,In Transit
+SHP0247,Mumbai,Pune,2025-03-09 06:43:45,3373.43,1,Cancelled
+SHP0248,Chennai,Ahmedabad,2025-06-24 05:09:02,4178.46,8,In Transit
+SHP0249,Bangalore,Pune,2025-02-22 02:02:15,2147.13,5,Delivered
+SHP0250,Mumbai,Hyderabad,2025-05-01 09:25:04,9314.39,5,Delivered
+SHP0251,Chennai,Pune,2024-04-07 08:38:03,2942.01,4,Delivered
+SHP0252,Chennai,Pune,2024-05-08 06:25:22,6612.13,6,Cancelled
+SHP0253,Bangalore,Lucknow,2024-07-06 12:55:05,4192.44,3,Cancelled
+SHP0254,Mumbai,Lucknow,2024-05-05 13:31:20,6433.42,9,Delayed
+SHP0255,Bangalore,Lucknow,2025-04-08 09:22:44,7211.36,5,Cancelled
+SHP0256,Mumbai,Hyderabad,2024-07-03 06:58:13,8637.93,3,Delivered
+SHP0257,Kolkata,Lucknow,2025-03-24 12:08:19,3651.37,1,Delivered
+SHP0258,Delhi,Ahmedabad,2024-09-20 01:53:29,2087.97,6,Cancelled
+SHP0259,Delhi,Jaipur,2025-02-15 12:24:01,3095.09,2,In Transit
+SHP0260,Delhi,Ahmedabad,2025-05-11 00:24:26,9200.15,3,Cancelled
+SHP0261,Bangalore,Ahmedabad,2024-04-16 09:25:00,8991.12,1,Cancelled
+SHP0262,Kolkata,Lucknow,2024-04-20 12:42:45,6779.3,9,Delivered
+SHP0263,Mumbai,Jaipur,2024-05-21 18:19:12,6804.13,8,Delayed
+SHP0264,Chennai,Jaipur,2025-01-09 12:51:00,7320.29,2,Delivered
+SHP0265,Mumbai,Jaipur,2025-02-03 07:07:01,3402.97,8,Delayed
+SHP0266,Chennai,Hyderabad,2024-11-23 05:35:16,9315.3,9,Delivered
+SHP0267,Mumbai,Lucknow,2024-10-24 08:35:17,5350.16,1,Cancelled
+SHP0268,Kolkata,Jaipur,2024-06-19 17:52:47,5065.11,5,Delivered
+SHP0269,Chennai,Hyderabad,2024-08-08 06:49:39,6151.34,8,Delivered
+SHP0270,Bangalore,Pune,2024-12-17 07:53:01,2375.73,2,Delivered
+SHP0271,Mumbai,Pune,2025-04-30 07:16:13,3330.27,4,Cancelled
+SHP0272,Mumbai,Hyderabad,2024-07-10 03:27:57,7904.27,7,Cancelled
+SHP0273,Chennai,Hyderabad,2025-03-22 21:21:33,2662.39,3,Cancelled
+SHP0274,Bangalore,Lucknow,2024-03-15 11:54:06,6825.22,5,Cancelled
+SHP0275,Bangalore,Lucknow,2025-03-12 09:08:39,3962.79,8,Delayed
+SHP0276,Kolkata,Pune,2024-11-01 05:48:38,5114.36,3,Delayed
+SHP0277,Bangalore,Jaipur,2024-04-14 19:50:14,4309.55,4,In Transit
+SHP0278,Bangalore,Pune,2024-08-24 15:28:02,4845.38,9,Cancelled
+SHP0279,Bangalore,Jaipur,2025-03-17 17:52:50,7752.37,7,Delayed
+SHP0280,Delhi,Jaipur,2024-05-10 02:46:54,4376.97,1,Delivered
+SHP0281,Kolkata,Lucknow,2024-07-25 03:21:11,6531.24,4,Cancelled
+SHP0282,Mumbai,Ahmedabad,2025-04-15 07:57:24,5808.4,4,In Transit
+SHP0283,Chennai,Ahmedabad,2024-05-12 10:09:34,7309.37,9,In Transit
+SHP0284,Mumbai,Hyderabad,2024-10-24 12:41:41,9494.64,6,In Transit
+SHP0285,Kolkata,Lucknow,2024-12-25 10:26:09,7860.58,9,Delivered
+SHP0286,Chennai,Jaipur,2024-02-05 19:30:35,3719.52,6,Delayed
+SHP0287,Kolkata,Ahmedabad,2024-10-31 19:54:43,2249.47,6,Delivered
+SHP0288,Bangalore,Jaipur,2024-09-20 11:09:02,4098.11,5,Cancelled
+SHP0289,Chennai,Ahmedabad,2024-08-15 06:41:09,6760.62,5,In Transit
+SHP0290,Bangalore,Ahmedabad,2024-11-10 00:40:21,2411.41,2,Delivered
+SHP0291,Mumbai,Ahmedabad,2025-01-27 20:26:24,5970.93,8,Delivered
+SHP0292,Mumbai,Lucknow,2024-11-12 20:13:17,6774.74,8,Delayed
+SHP0293,Chennai,Pune,2024-07-25 02:28:53,4673.95,1,Delayed
+SHP0294,Chennai,Jaipur,2025-02-19 15:37:33,8167.3,8,In Transit
+SHP0295,Kolkata,Lucknow,2025-01-07 21:01:44,2852.79,5,Delivered
+SHP0296,Kolkata,Lucknow,2025-05-06 12:42:54,2601.1,2,Delivered
+SHP0297,Bangalore,Lucknow,2024-07-07 05:44:42,7825.51,2,Delayed
+SHP0298,Chennai,Lucknow,2025-03-28 23:51:35,5963.93,6,Delivered
+SHP0299,Mumbai,Lucknow,2025-01-26 04:39:53,7507.22,9,Delivered

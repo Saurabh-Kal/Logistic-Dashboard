@@ -1,0 +1,42 @@
+{
+    "name": "Logistics Theme",
+    "dataColors": [
+        "#1B9E77",
+        "#D95F02",
+        "#7570B3",
+        "#E7298A",
+        "#66A61E",
+        "#E6AB02",
+        "#A6761D"
+    ],
+    "background": "#F4F4F4",
+    "foreground": "#000000",
+    "tableAccent": "#1B9E77",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontSize": 14,
+                        "fontFamily": "Segoe UI",
+                        "fontColor": {
+                            "solid": {
+                                "color": "#1B1B1B"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "fontSize": 12,
+                        "fontColor": {
+                            "solid": {
+                                "color": "#333333"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

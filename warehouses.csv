@@ -1,0 +1,11 @@
+warehouse_id,location,inventory_volume_cubic_m,inflow_rate_per_day,outflow_rate_per_day
+WH00,Mumbai,9343.01,383.5,245.5
+WH01,Hyderabad,5859.61,114.5,302.2
+WH02,Chennai,8578.3,221.3,270.8
+WH03,Bangalore,5688.62,205.2,420.2
+WH04,Pune,6612.27,244.1,263.9
+WH05,Bangalore,1802.12,135.1,447.1
+WH06,Hyderabad,7797.43,474.8,395.0
+WH07,Ahmedabad,2149.42,321.5,157.1
+WH08,Kolkata,8434.61,222.2,424.3
+WH09,Chennai,8038.25,258.8,123.1
