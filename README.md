@@ -1,18 +1,15 @@
-# 🚚 Logistics Operations Dashboard (Power BI)
+Logistics Operations Dashboard (Power BI)
 
-## 📊 Overview
-A professional Power BI dashboard analyzing logistics operations including shipments, fleet, and warehouse performance.
+Power BI dashboard analyzing logistics operations, including shipments, fleet, and warehouse performance.
 
-### ✅ Features
+ Features
 - KPI Cards for Shipments, Cost, On-Time %
 - Shipment trend line & status pie chart
-- Fleet metrics like mileage, fuel, maintenance
+- Fleet metrics like mileage, fuel, and maintenance
 - Warehouse inventory and flow rates
 - Interactive filters by status, location, vehicle type
 
-## 📁 Structure
-
-```
+Structure
 logistics-dashboard/
 ├── datasets/
 │   ├── shipments.csv
@@ -20,18 +17,16 @@ logistics-dashboard/
 │   └── warehouses.csv
 ├── logistics_powerbi_theme.json
 └── README.md
-```
 
-## 🛠 Tools
+Tools
 - Power BI Desktop
 - DAX for custom KPIs
 - Theme JSON for consistent styling
 
-## 📌 How to Use
+How to Use
 1. Load `*.csv` files into Power BI
 2. Apply `logistics_powerbi_theme.json` via View → Browse for Themes
 3. Create visuals using DAX measures
 4. Save your `.pbix` and upload this structure to GitHub
 
----
-📬 Created by [YourName]
+📬 Created by Saurabh Tripathi
